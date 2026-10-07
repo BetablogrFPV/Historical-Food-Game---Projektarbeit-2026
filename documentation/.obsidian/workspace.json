@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "c6b54a8c60c44c9e",
+    "id": "501e16664750b489",
     "type": "split",
     "children": [
       {
-        "id": "3cf47f13cec849dc",
+        "id": "e541b0356dcc3827",
         "type": "tabs",
         "children": [
           {
-            "id": "9a4b24d2a1e7e2b1",
+            "id": "3044dabe345ec068",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "documentation/Thoughts.md",
+                "file": "Thoughts.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,21 +27,21 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7c93f1b578ed4ac6",
+    "id": "4ebeed146b21b689",
     "type": "split",
     "children": [
       {
-        "id": "24849a71138ee600",
+        "id": "996e9d0b228f5488",
         "type": "tabs",
         "children": [
           {
-            "id": "d59e9e77156aa6a1",
+            "id": "8953836ac4f5a10e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime",
-                "autoReveal": true,
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "b96bab9c5d946cc0",
+            "id": "d2eb623e24a51cab",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,7 +67,7 @@
             }
           },
           {
-            "id": "a600ce214287733a",
+            "id": "964e43558479a63e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -83,23 +83,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.1640625
+    "width": 300
   },
   "right": {
-    "id": "0b2c4dfbbdd26ced",
+    "id": "650a534df4ba1b8e",
     "type": "split",
     "children": [
       {
-        "id": "1983424fd63485c8",
+        "id": "026b268ea23ae789",
         "type": "tabs",
         "children": [
           {
-            "id": "e80b5b9374ca1ec4",
+            "id": "efcef896f9f7fad3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Marie Geb. 17.md",
+                "file": "Thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,11 +113,12 @@
             }
           },
           {
-            "id": "5f5fcdb605a43a71",
+            "id": "12333852f369c05d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Thoughts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -126,7 +127,7 @@
             }
           },
           {
-            "id": "bfad2efcdf8eb92a",
+            "id": "53381937ed76af91",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -141,7 +142,7 @@
             }
           },
           {
-            "id": "c7975ee926f8344c",
+            "id": "6665f1590cbe71d4",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -155,27 +156,18 @@
             }
           },
           {
-            "id": "d896359b22fd17a0",
+            "id": "24d084433546c933",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Thoughts.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "Outline"
-            }
-          },
-          {
-            "id": "1662807843e7d547",
-            "type": "leaf",
-            "state": {
-              "type": "system3-sync-status",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "system3-sync-status"
             }
           }
         ]
@@ -196,8 +188,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "d59e9e77156aa6a1",
+  "active": "3044dabe345ec068",
   "lastOpenFiles": [
+<<<<<<< HEAD:.obsidian/workspace.json
     "Sprites/char.idleanim1.aseprite",
     "Sprites/cahr.aseprite",
     "Sprites/char.aseprite",
@@ -250,5 +243,13 @@
     "School/Sport/Unterschiede Hockey u. Eishockey.canvas",
     "School/Philosophie/Übermensch - Nietsche.canvas",
     "School/Philosophie/Hermeneutische Ungerechtigkeit Folgen.canvas"
+=======
+    "Thoughts 1.md",
+    "Thoughts.md",
+    "Ausarbeitungs Notes/Ausarbeitungs Notes.md",
+    "Ausarbeitungs Notes/Ausarbeitung Küche.md",
+    "Ausarbeitungs Notes/Ausarbeitung Außenbereich.md",
+    "Ausarbeitungs Notes"
+>>>>>>> 06160451f885df87c7dfd55aed3a505d895c5214:documentation/.obsidian/workspace.json
   ]
 }
