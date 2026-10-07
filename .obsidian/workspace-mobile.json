@@ -1,0 +1,256 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "77f8ba9dd177b14e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6331de7ff353dae4",
+            "type": "leaf",
+            "state": {
+              "type": "hearth-home-view",
+              "state": {
+                "scroll": {
+                  "dash-mtsbik9j-4345": 30
+                }
+              },
+              "icon": "hearth-crystal",
+              "title": "Home"
+            }
+          },
+          {
+            "id": "57da68f703fd6607",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2a01fc02e2cbd768",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f6a944f2dccfd686",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "byCreatedTime",
+            "autoReveal": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "259dd140716a5795",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#Heimsuchung",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "51f89eee9bba9c18",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "fdee3a0491df29e5",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "3056c7ac239cfef7",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "45ff478db64645da",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "56443882378ecba6",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "School/Sowi/Inhaltsfeld 6 - Strukturen Sozialer Ungleichheit/Gesellschaft verstehen - begriffliches.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "199e43752d2c8b9a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "b55edae8e0d49929",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Notes/Coworkingspace/Transfer.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "3d2b1907da16fa0e",
+        "type": "leaf",
+        "state": {
+          "type": "system3-sync-status",
+          "state": {},
+          "icon": "satellite",
+          "title": "Sync status"
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "bases:Create new base": true,
+      "always-color-text:Always Color Text": false,
+      "create-task:Create Task": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "fit:Sync to GitHub": false,
+      "daily-notes:Open today's daily note": false,
+      "hearth:Open Hearth home": false,
+      "homepage:Open homepage": false,
+      "system3-relay:Relay": false,
+      "vault-arcade:Open Vault Arcade": false
+    }
+  },
+  "active": "6331de7ff353dae4",
+  "lastOpenFiles": [
+    "Notes/Coworkingspace/Transfer.md",
+    "Notes/2026-09-24 - Der Tuchfabrikant.md",
+    "School/Deutsch/2026-09-24.md",
+    "School/Deutsch/Attachments/AB Der Tuchfabrikant_9fe5421d3fdcef5330a655bde59e0af8.pdf",
+    "School/Chemie/Säure-Base-Theorie nach Bronsted.md",
+    "School/Deutsch/2026-09-14.md",
+    "School/Deutsch/Deutsch.base",
+    "School/School.base",
+    "Notes/Coworkingspace/To-Do.md",
+    "Notes/Experiment - wässerige Lösung.md",
+    "Dashboard.md",
+    "Notes/Attachments/Pasted image 20260924103117.png",
+    "Notes/Coworkingspace/Discord 2.0.md",
+    "Notes/Attachments/02.2 Experiment Säure-Base-Reaktionen in wässriger Lösung_638c10416bf1626f7e8ff9e368d9b562.pdf",
+    "Untitled 1.base",
+    "School/Chemie/2026-09-24.md",
+    "Notes/Coworkingspace/Temporary/Tmp/Marie.md",
+    "Notes/Coworkingspace/Temporary/Tmp",
+    "School/Englisch/2026-09-24 - Roleplay.md",
+    "School/Englisch/2026-09-09 Text Summary - The self.md",
+    "Notes/Coworkingspace/Temporary/Relation between the introduction and the content.md",
+    "School/Philosophie/Charles Darwin - Entstehung der Arten - angewandt auf NS-Zeit.md",
+    "Notes/Coworkingspace/Temporary",
+    "Notes/Notes.md",
+    "_fit/Notes/Notes.md",
+    "_fit/Notes",
+    "_fit",
+    "Untitled.base",
+    "Notes/Marie Geb. 17.md",
+    "School/Erdkunde/Schalenaufbau und Plattentechtonik.md",
+    "School/Englisch/E Analyse Ella Buckland, The Guardian.md",
+    "Documentation/color dashboard/IMG_4349.jpg",
+    "School/Philosophie/Charles Darwin - Evolutionstheorie.md",
+    "School/Philosophie/Übermensch - Nietsche.canvas",
+    "School/Philosophie/2026-09-16.md",
+    "School/Erdkunde/Stellungnahme.md",
+    "School/Erdkunde/Begriffe.md",
+    "Notes/2026-09-22.md",
+    "School/Sowi/Inhaltsfeld 6 - Strukturen Sozialer Ungleichheit/Gesellschaft verstehen - begriffliches.md",
+    "School/Sowi/Inhaltsfeld 6 - Strukturen Sozialer Ungleichheit/Attachments/IMG_7946.jpeg",
+    "School/Mathe/Attachments/IMG_0924.jpeg",
+    "School/Chemie/Untitled.canvas",
+    "School/Erdkunde/Attachments/Erdkunde Q1-1.jpg",
+    "School/Erdkunde/Attachments/IMG_0875 1.jpeg",
+    "School/Mathe/Attachments/IMG_4018.jpeg",
+    "School/Erdkunde/EF/Attachments/Ink/Writing/2026.9.14 - 14.25pm.svg",
+    "Documentation/color dashboard/IMG_4361.jpg",
+    "Documentation/color dashboard/color dashboard.jpg",
+    "School/Deutsch/Fachsprache_Plakat.canvas",
+    "School/Philosophie/Hermeneutische Ungerechtigkeit Folgen.canvas",
+    "School/Sport/Unterschiede Hockey u. Eishockey.canvas",
+    "School/Deutsch/Fachsprache_Plakat.canvas",
+    "School/Deutsch/Untitled.canvas"
+  ]
+}
